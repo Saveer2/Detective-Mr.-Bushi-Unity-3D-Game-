@@ -1,0 +1,455 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\Unity\\p\\Game_Launch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\scenechanger4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechanger4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|d:\\new folder\\unity\\p\\game_launch\\assets\\scripts\\scenechanger3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechanger3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\scenechanger2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechanger2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\introvideo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introvideo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\npc_system1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc_system1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\scenechanger1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechanger1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\playermovement_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\introvideo5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introvideo5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\introvideo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introvideo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\audmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\introvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\introvideo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introvideo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\typewritereffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\typewritereffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\introvideo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introvideo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\Unity\\p\\Game_Launch\\Library\\PackageCache\\com.unity.ugui@a73b706e285a\\Runtime\\UGUI\\UI\\Core\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@a73b706e285a\\Runtime\\UGUI\\UI\\Core\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\orbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\orbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\minimapfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minimapfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\npc_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\videoend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\videoend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\containerdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\containerdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\orbit_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\orbit_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Game_Launch\\assets\\scripts\\coinpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DEA907-1177-12AD-08A7-4565F711D900}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IntroVideo5.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\IntroVideo5.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IntroVideo5.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\IntroVideo5.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IntroVideo5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:49:23.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntroVideo4.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\IntroVideo4.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IntroVideo4.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\IntroVideo4.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IntroVideo4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:48:19.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IntroVideo3.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\IntroVideo3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IntroVideo3.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\IntroVideo3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IntroVideo3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:32:19.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AudManager.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\AudManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudManager.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\AudManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:31:19.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IntroVideo2.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\IntroVideo2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IntroVideo2.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\IntroVideo2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IntroVideo2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T07:12:43.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T20:03:06.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IntroVideo1.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\IntroVideo1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IntroVideo1.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\IntroVideo1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IntroVideo1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T19:53:37.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IntroVideo.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\IntroVideo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IntroVideo.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\IntroVideo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IntroVideo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T19:40:30.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Button.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Library\\PackageCache\\com.unity.ugui@a73b706e285a\\Runtime\\UGUI\\UI\\Core\\Button.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@a73b706e285a\\Runtime\\UGUI\\UI\\Core\\Button.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Library\\PackageCache\\com.unity.ugui@a73b706e285a\\Runtime\\UGUI\\UI\\Core\\Button.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@a73b706e285a\\Runtime\\UGUI\\UI\\Core\\Button.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADgv0UAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T19:25:01.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T18:20:29.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T10:35:34.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MiniMapFollow.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\MiniMapFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniMapFollow.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\MiniMapFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniMapFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T07:43:52.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneChanger4.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\SceneChanger4.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChanger4.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\SceneChanger4.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChanger4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T07:22:39.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneChanger3.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\SceneChanger3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChanger3.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\SceneChanger3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChanger3.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T07:08:39.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneChanger2.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\SceneChanger2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChanger2.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\SceneChanger2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChanger2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T07:05:54.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SceneChanger1.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\SceneChanger1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChanger1.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\SceneChanger1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChanger1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T06:47:27.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Orbit_f.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\Orbit_f.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Orbit_f.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\Orbit_f.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Orbit_f.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T19:21:53.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerMovement_F.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\PlayerMovement_F.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement_F.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\PlayerMovement_F.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement_F.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T19:21:11.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SceneChanger.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChanger.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:53:11.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ContainerDeposit.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\ContainerDeposit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ContainerDeposit.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\ContainerDeposit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ContainerDeposit.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:40:12.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CoinPickup.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\CoinPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinPickup.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\CoinPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:11:56.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TypeWriterEffect.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\TypeWriterEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TypeWriterEffect.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\TypeWriterEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TypeWriterEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T13:35:08.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NPC_System1.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\NPC_System1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC_System1.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\NPC_System1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC_System1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T13:09:13.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VideoEnd.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\VideoEnd.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VideoEnd.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\VideoEnd.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VideoEnd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:33:28.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NPC_System.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\NPC_System.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC_System.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\NPC_System.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC_System.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA7wA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T10:19:27.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwFsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T17:32:08.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Orbit.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\Orbit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Orbit.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Game_Launch\\Assets\\Scripts\\Orbit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Orbit.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T17:28:28.513Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
