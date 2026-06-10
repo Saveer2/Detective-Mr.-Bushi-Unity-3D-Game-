@@ -61,9 +61,11 @@ The game focuses on:
 ## Game Images
 
 <p align="center">
-  <img src="Game_images/Menu1.png" width="250">
-  <img src="Game_images/img1.png" width="250">
-  <img src="Game_images/img4.png" width="250">
+  <img src="Game_images/Menu1.png" width="450">
+  <img src="Game_images/img1.png" width="450">
+  <img src="Game_images/img2.png" width="450">
+  <img src="Game_images/img3.png" width="450">
+  <img src="Game_images/img4.png" width="450">
 </p>
 
 ---
